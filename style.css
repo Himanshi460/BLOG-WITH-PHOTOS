@@ -1,0 +1,27 @@
+body{
+text-align: center;
+background-image: url("http://www.holemanlandscape.com/wp-content/uploads/2014/08/trees.jpg");
+  background-size: 1150px 1200px;
+   backdrop-filter: brightness(0.7);
+font-family: Montserrat, sans-serif;
+  font-size: 40px;
+font-weight:bold;
+color:lightyellow;
+  padding-bottom:25px;
+}
+div{
+  margin-top: 15px;
+}
+.image section{
+ display: flex;
+  justify-content:center;
+}
+.section style{
+  margin-left: 25px;
+  margin-right: 25px;
+  background-color:lightpink;
+}
+img{
+  width: 500px;
+height: 300px;
+}
